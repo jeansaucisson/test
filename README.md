@@ -27,13 +27,13 @@
 
 ## Edit-Page
 
-+ 3.1-Edit-Page
++ [3.1-Edit-Page](./BrandBlocks-Documentation/3-Edit-Page/3.1-Edit-Page.md)
 
 ## Publish-Page
 
-+ 4.1-Publish-Page
-+ 4.2-Publish-Asset-Dependencies
-+ 4.3-Versioning
++ [4.1-Publish-Page](./BrandBlocks-Documentation/4-Publish-Page/4.1-Publish-Page.md)
++ [4.2-Publish-Asset-Dependencies](./BrandBlocks-Documentation/4-Publish-Page/4.2-Publish-Asset-Dependencies.md)
++ [4.3-Versioning](./BrandBlocks-Documentation/4-Publish-Page/4.3-Versioning.md)
 
 ## Delete-Page
 
