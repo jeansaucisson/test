@@ -3,40 +3,7 @@
 
 ## Basic Principles
 
-+ 1.1-Author-and-Public-Web
-+ [1.1-Author-and-Public-Web](/1-)
-1-Basic-Principles/1.1-Author-and-Public-Web.md
-
-+ [I'm a relative reference to a repository file](/BrandBlocks-Documentation/1-Basic-Principles/1.1-Author-and-Public-Web.md)
-
-+ [a relative link](1.1-Author-and-Public-Web.md)
-+ [a relative link](../../BrandBlocks-Documentation/1-Basic-Principles/1.1-Author-and-Public-Web.md)
-
-
-## auf root mit slash
-+ see documentation [here](../../1.1-Author-and-Public-Web.md/)
-+ see documentation [here](../1.1-Author-and-Public-Web.md/)
-+ see documentation [here](./1.1-Author-and-Public-Web.md/)
-+ see documentation [here](/1.1-Author-and-Public-Web.md/)
-+ see documentation [here](1.1-Author-and-Public-Web.md/)
-
-
-## auf root ohne slash
-+ see documentation [here](../../1.1-Author-and-Public-Web.md)
-+ see documentation [here](../1.1-Author-and-Public-Web.md)
-+ see documentation [here](./1.1-Author-and-Public-Web.md)
-+ see documentation [here](/1.1-Author-and-Public-Web.md)
-+ see documentation [here](1.1-Author-and-Public-Web.md)
-
-## auf Verzeichnis
-+ see documentation [here](../../BrandBlocks-Documentation/1-Basic-Principles/1.1-Author-and-Public-Web.md)
-+ see documentation [here](../BrandBlocks-Documentation/1-Basic-Principles/1.1-Author-and-Public-Web.md)
-+ see documentation [here](./BrandBlocks-Documentation/1-Basic-Principles/1.1-Author-and-Public-Web.md)
-+ see documentation [here](/BrandBlocks-Documentation/1-Basic-Principles/1.1-Author-and-Public-Web.md)
-+ see documentation [here](BrandBlocks-Documentation/1-Basic-Principles/1.1-Author-and-Public-Web.md)
-
-## auf URL
-+ see documentation [here](https://github.com/github/markup/issues/84)
++ [1.1-Author-and-Public-Web](./BrandBlocks-Documentation/1-Basic-Principles/1.1-Author-and-Public-Web.md)
 
 + 1.2-Opening-the-Backend
 + 1.3-Start-Screen
