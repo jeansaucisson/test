@@ -13,17 +13,17 @@
 
 ## Create-New-Pages
 
-+ 2.1-Create-New-Pages
-+ 2.2-Content-filling-at-the-example-of-the_Text-Image_Component
-+ 2.3-Add-Images-to-the-Content
-+ 2.4-Add-Link
-+ 2.5-Add-Image-Legends
-+ 2.6-Sticky-Headers-Page-Navigation-Anchors
-+ 2.7-Page-Redirect
-+ 2.8-Available-Content-Elements-Components
-+ 2.9-Preview-Page
-+ 2.10-Move-Page
-+ 2.11-Editor
++ [2.1-Create-New-Pages](./BrandBlocks-Documentation/2-Create-New-Pages/2.1-Create-New-Pages.md)
++ [2.2-Content-filling-at-the-example-of-the_Text-Image_Component](./BrandBlocks-Documentation/2-Create-New-Pages/2.2-Content-filling-at-the-example-of-the_Text-Image_Component.md)
++ [2.3-Add-Images-to-the-Content](./BrandBlocks-Documentation/2-Create-New-Pages/2.3-Add-Images-to-the-Content.md)
++ [2.4-Add-Link](./BrandBlocks-Documentation/2-Create-New-Pages/2.4-Add-Link.md)
++ [2.5-Add-Image-Legends](./BrandBlocks-Documentation/2-Create-New-Pages/2.5-Add-Image-Legends.md)
++ [2.6-Sticky-Headers-Page-Navigation-Anchors](./BrandBlocks-Documentation/2-Create-New-Pages/2.6-Sticky-Headers-Page-Navigation-Anchors.md)
++ [2.7-Page-Redirect](./BrandBlocks-Documentation/2-Create-New-Pages/2.7-Page-Redirect.md)
++ [2.8-Available-Content-Elements-Components](./BrandBlocks-Documentation/2-Create-New-Pages/2.8-Available-Content-Elements-Components.md)
++ [2.9-Preview-Page](./BrandBlocks-Documentation/2-Create-New-Pages/2.9-Preview-Page.md)
++ [2.10-Move-Page](./BrandBlocks-Documentation/2-Create-New-Pages/2.10-Move-Page.md)
++ [2.11-Editor](./BrandBlocks-Documentation/2-Create-New-Pages/2.11-Editor.md)
 
 ## Edit-Page
 
