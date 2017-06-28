@@ -62,4 +62,4 @@
 
 
 
-Copyright (c) 2017 Copyright **GateB** All Rights Reserved.
+Copyright (c) 2017 Copyright **GateB AG** All Rights Reserved.
