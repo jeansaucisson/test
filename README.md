@@ -51,4 +51,15 @@
 + [6.8-Disclaimer](./BrandBlocks-Documentation/6-Special-Topics/6.8-Disclaimer.md)
 
 
+
+- [x] this is a complete item
+- [ ] this is an incomplete item
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+
+
+:fire:
+
+
+
 Copyright (c) 2017 Copyright GateB All Rights Reserved.
