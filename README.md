@@ -4,12 +4,12 @@
 ## Basic Principles
 
 + [1.1-Author-and-Public-Web](./BrandBlocks-Documentation/1-Basic-Principles/1.1-Author-and-Public-Web.md)
++ [1.2-Opening-the-Backend](./BrandBlocks-Documentation/1-Basic-Principles/1.2-Opening-the-Backend.md)
++ [1.3-Start-Screen](./BrandBlocks-Documentation/1-Basic-Principles/1.3-Start-Screen.md)
++ [1.4-Pages](./BrandBlocks-Documentation/1-Basic-Principles/1.4-Pages.md)
++ [1.5-Assets](./BrandBlocks-Documentation/1-Basic-Principles/1.5-Assets.md)
++ [1.6-Workflow](./BrandBlocks-Documentation/1-Basic-Principles/1.6-Workflow.md)
 
-+ 1.2-Opening-the-Backend
-+ 1.3-Start-Screen
-+ 1.4-Pages
-+ 1.5-Assets
-+ 1.6-Workflow
 
 ## Create-New-Pages
 
