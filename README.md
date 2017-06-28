@@ -37,17 +37,18 @@
 
 ## Delete-Page
 
-+ 5.1-Delete-Page
++ [5.1-Delete-Page](./BrandBlocks-Documentation/5-Delete-Page/5.1-Delete-Page.md)
 
 ## Special-Topics
 
-+ 6.1-Asset-Search-Page
-+ 6.2-Detail-View
-+ 6.3-Site-Search-Button
-+ 6.4-Full-Site-Search-Assets
-+ 6.5-Icons
-+ 6.6-Header
-+ 6.7-Footer
-+ 6.8-Disclaimer
++ [6.1-Asset-Search-Page](./BrandBlocks-Documentation/6-Special-Topics/6.1-Asset-Search-Page.md)
++ [6.2-Detail-View](./BrandBlocks-Documentation/6-Special-Topics/6.2-Detail-View.md)
++ [6.3-Site-Search-Button](./BrandBlocks-Documentation/6-Special-Topics/6.3-Site-Search-Button.md)
++ [6.4-Full-Site-Search-Assets](./BrandBlocks-Documentation/6-Special-Topics/6.4-Full-Site-Search-Assets.md)
++ [6.5-Icons](./BrandBlocks-Documentation/6-Special-Topics/6.5-Icons.md)
++ [6.6-Header](./BrandBlocks-Documentation/6-Special-Topics/6.6-Header.md)
++ [6.7-Footer](./BrandBlocks-Documentation/6-Special-Topics/6.7-Footer.md)
++ [6.8-Disclaimer](./BrandBlocks-Documentation/6-Special-Topics/6.8-Disclaimer.md)
+
 
 Copyright (c) 2017 Copyright GateB All Rights Reserved.
