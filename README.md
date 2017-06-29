@@ -20,7 +20,7 @@
 + [2.5 Add Image Legends](./BrandBlocks-Documentation/2-Create-New-Pages/2.5-Add-Image-Legends.md)
 + [2.6 Sticky Headers Page Navigation Anchors](./BrandBlocks-Documentation/2-Create-New-Pages/2.6-Sticky-Headers-Page-Navigation-Anchors.md)
 + [2.7 Page Redirect](./BrandBlocks-Documentation/2-Create-New-Pages/2.7-Page-Redirect.md)
-+ [2.8 Available Content Elements Components](./BrandBlocks-Documentation/2-Create-New-Pages/2.8-Available-Content-Elements-Components.md)
++ [2.8 Available Content Elements Components](BrandBlocks-Documentation/2-Create-New-Pages/2.8-Available-Content-Elements-Components.md)
 + [2.9 Preview Page](./BrandBlocks-Documentation/2-Create-New-Pages/2.9-Preview-Page.md)
 + [2.10 Move Page](./BrandBlocks-Documentation/2-Create-New-Pages/2.10-Move-Page.md)
 + [2.11 Editor](./BrandBlocks-Documentation/2-Create-New-Pages/2.11-Editor.md)
