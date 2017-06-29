@@ -3,18 +3,18 @@
 
 ## Basic Principles
 
-+ [1.1-Author-and-Public-Web](./BrandBlocks-Documentation/1-Basic-Principles/1.1-Author-and-Public-Web.md)
-+ [1.2-Opening-the-Backend](./BrandBlocks-Documentation/1-Basic-Principles/1.2-Opening-the-Backend.md)
-+ [1.3-Start-Screen](./BrandBlocks-Documentation/1-Basic-Principles/1.3-Start-Screen.md)
-+ [1.4-Pages](./BrandBlocks-Documentation/1-Basic-Principles/1.4-Pages.md)
-+ [1.5-Assets](./BrandBlocks-Documentation/1-Basic-Principles/1.5-Assets.md)
-+ [1.6-Workflow](./BrandBlocks-Documentation/1-Basic-Principles/1.6-Workflow.md)
++ [1.1 Author and Public Web](./BrandBlocks-Documentation/1-Basic-Principles/1.1-Author-and-Public-Web.md)
++ [1.2 Opening the Backend](./BrandBlocks-Documentation/1-Basic-Principles/1.2-Opening-the-Backend.md)
++ [1.3 Start Screen](./BrandBlocks-Documentation/1-Basic-Principles/1.3-Start-Screen.md)
++ [1.4 Pages](./BrandBlocks-Documentation/1-Basic-Principles/1.4-Pages.md)
++ [1.5 Assets](./BrandBlocks-Documentation/1-Basic-Principles/1.5-Assets.md)
++ [1.6 Workflow](./BrandBlocks-Documentation/1-Basic-Principles/1.6-Workflow.md)
 
 
-## Create-New-Pages
+## Create New Pages
 
-+ [2.1-Create-New-Pages](./BrandBlocks-Documentation/2-Create-New-Pages/2.1-Create-New-Pages.md)
-+ [2.2-Content-filling-at-the-example-of-the_Text-Image_Component](./BrandBlocks-Documentation/2-Create-New-Pages/2.2-Content-filling-at-the-example-of-the_Text-Image_Component.md)
++ [2.1 Create New Pages](./BrandBlocks-Documentation/2-Create-New-Pages/2.1-Create-New-Pages.md)
++ [2.2 Content filling at the example of the Text Image Component](./BrandBlocks-Documentation/2-Create-New-Pages/2.2-Content-filling-at-the-example-of-the_Text-Image_Component.md)
 + [2.3-Add-Images-to-the-Content](./BrandBlocks-Documentation/2-Create-New-Pages/2.3-Add-Images-to-the-Content.md)
 + [2.4-Add-Link](./BrandBlocks-Documentation/2-Create-New-Pages/2.4-Add-Link.md)
 + [2.5-Add-Image-Legends](./BrandBlocks-Documentation/2-Create-New-Pages/2.5-Add-Image-Legends.md)
