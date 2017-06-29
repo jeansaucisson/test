@@ -51,8 +51,5 @@
 + [6.8-Disclaimer](./BrandBlocks-Documentation/6-Special-Topics/6.8-Disclaimer.md)
 
 
-:fire:
 
-
-
-Copyright (c) 2017 Copyright **GateB AG** All Rights Reserved.
+Copyright (©) 2017 **GateB AG** All Rights Reserved. :fire:
